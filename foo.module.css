@@ -1,0 +1,6 @@
+@import url(./bar.module.css);
+
+.foo {
+  color: color(display-p3 0 0 1);
+  composes: bar;
+}

@@ -1,0 +1,7 @@
+.bar {
+	text-decoration: underline 1px solid color(display-p3 0 1 0);
+
+	&:hover {
+		text-decoration-color: pink;
+	}
+}
